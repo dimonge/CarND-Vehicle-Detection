@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/slide_windows.png
 [image4]: ./output_images/slide_search.png
 [image5]: ./output_images/car_position_and_heatmap.png
-[video1]: ./project_video.mp4
+[video1]: ./project_video_result.mp4
 
 
 ### Histogram of Oriented Gradients (HOG)
